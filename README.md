@@ -12,14 +12,7 @@ This repository contains the Klipper firmware tailored for compatibility with th
 - Join the Klipper community forums for assistance and discussions: [Klipper Community](https://www.klipper3d.org/Discuss.html)
 
 ## Compatibility
-This firmware is specifically designed for CR-10 Smart printers equipped with CRC-2405V1.2 motherboards. Ensure that your hardware matches the specified compatibility to avoid any issues.
+This firmware is specifically designed for CR-10 Smart printers equipped with CRC-2405V1.2 motherboard and [Nyoomies R1](https://github.com/comradef191/NyoomiesKME).
 
 ## Contributing
 If you encounter issues or have improvements to suggest, feel free to open an issue or submit a pull request. Contributions from the community are highly welcomed.
-
-## License
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
-
-**Note:** Flashing custom firmware carries risks. Ensure that you understand the process and potential consequences before proceeding.
-
-Happy Printing! 🚀
