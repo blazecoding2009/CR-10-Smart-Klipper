@@ -1,4 +1,5 @@
 # CR-10 Smart Klipper Firmware
+![image](https://github.com/user-attachments/assets/e8c7cb1a-e91a-4cb0-b72f-4b62ce929bd0)
 
 This repository contains the Klipper firmware tailored for compatibility with the CRC-2405V1.2 motherboards found in the CR-10 Smart lineup of 3D printers. By installing this firmware, users can take advantage of enhanced performance, additional features, and improved print quality (Sometimes).
 
